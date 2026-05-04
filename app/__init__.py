@@ -1,0 +1,1 @@
+"""EPİAŞ FastAPI data provider."""
